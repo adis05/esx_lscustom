@@ -1,5 +1,12 @@
 # esx_lscustom
 
+# server detail
+![banner_fivem](https://github.com/adis05/esx_lscustom/assets/102389489/6d24c7e3-1959-479e-ad87-0135032937b6)
+
+# server connect
+![banner-connecting](https://github.com/adis05/esx_lscustom/assets/102389489/0673f80a-b4f6-4c81-a51e-c25065964f15)
+
+
 ## Requirements
 - [esx_vehicleshop](https://github.com/ESX-Org/esx_vehicleshop)
 
